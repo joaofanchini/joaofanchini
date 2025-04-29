@@ -1,6 +1,6 @@
 ### Olá, 👋
 
-Sou João Victor,
+Sou João Fanchini,
 
 - 🔭 Trabaho com desenvolvimento de software.
 - 🌱 Estudando tudo relacionado a tecnologia.
